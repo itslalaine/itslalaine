@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Lalaine 👋
 
-<!--
-**itslalaine/itslalaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring web developer with a growing interest in cybersecurity. I enjoy building simple but meaningful web apps, especially ones that focus on user experience and personal data insights.
 
-Here are some ideas to get you started:
+💡 One of my main projects is **[Thoughtsbite](https://github.com/itslalaine/Thoughtsbite)** — a personal analytics web app that turns daily learning into meaningful insights. It helps track key takeaways, mood, and patterns over time instead of just passively consuming content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech I’ve worked with:
+Bootstrap, JavaScript, Node.js, Express.js, EJS, MongoDB
+
+📌 Currently improving:
+Building better UI/UX and exploring more about security concepts
+
+🎯 Goal:
+To land an entry-level role in web development or cybersecurity
+
